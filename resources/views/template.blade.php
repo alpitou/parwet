@@ -14,6 +14,8 @@
 
     <title>Parakan Wetan</title>
 
+    <link rel="icon" href="{{ asset('assets/images/logo-temanggung.png')}}">
+
     <!-- Bootstrap core CSS -->
     <link href="{{ asset('vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
 
@@ -92,6 +94,7 @@ https://templatemo.com/tm-564-plot-listing
         <div class="container">
         <div class="row">
     <div class="col-lg-6 col-sm-6">
+        <h4>Alamat Kantor Kelurahan</h4>
         <address>
             Jl. Letnan Suwaji No.134, Kemalangan,<br>
             Parakan Wetan, Kec. Parakan, Kabupaten Temanggung,<br>
@@ -112,7 +115,7 @@ https://templatemo.com/tm-564-plot-listing
                 <div class="col-lg-12">
                     <div class="sub-footer">
                             <br>
-                            Dibangun Oleh: <a rel="nofollow" href="https://www.instagram.com/infokejadian.parakanwetan/" title="CSS Templates">KKN TIM II UNDIP 2024 Parakan Wetan</a>
+                            Dibangun oleh: <a rel="nofollow" href="https://www.instagram.com/infokejadian.parakanwetan/" title="CSS Templates">KKN TIM II UNDIP 2024 Parakan Wetan</a>
                         </p>
                     </div>
                 </div>

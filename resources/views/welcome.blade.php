@@ -5,8 +5,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="top-text header-text">
-                        <h6>Selamat Datang</h6>
-                        <h2>Website Parakan Wetan, Kecamatan Parakan, Kabupaten Temanggung</h2>
+                        <h2>Selamat Datang</h2>
+                        <h3>Website Parakan Wetan, Kecamatan Parakan, Kabupaten Temanggung</h3>
                     </div>
                 </div>
                 <div class="col-lg-12">
