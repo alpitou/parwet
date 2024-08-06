@@ -164,7 +164,7 @@
                                                                             <h2>GALERI KOSONG</h2>
                                                                         </div>
                                                                     @endif
-                                                                    <footer>
+                                                                  {{--  <footer>
         <div class="container">
         <div class="row">
     <div class="col-lg-6 col-sm-6">
@@ -194,7 +194,7 @@
                 </div>
             </div>
         </div>
-    </footer>
+    </footer>--}}
                                                                 </div>
                                                             </div>
                                                         </div>
