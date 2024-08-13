@@ -104,8 +104,7 @@ https://templatemo.com/tm-564-plot-listing
     <div class="col-lg-6 col-sm-6 text-right">
         <h4>Jadwal Pelayanan Kantor Kelurahan</h4>
         <ul class="list-unstyled">
-            <li>Senin s/d Kamis : 07.30 - 15.00 WIB</li>
-            <li>Jum'at : 07.30 - 11.00 WIB</li>
+            <li>Senin s/d Jumat : 07.30 - 16.00 WIB</li>
             <li>Sabtu s/d Minggu : Libur</li>
         </ul>
     </div>

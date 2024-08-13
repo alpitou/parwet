@@ -30,28 +30,28 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="menu row">
-                                    <div class="first-thumb active col-lg-2">
+                                    <div class="first-thumb active col-lg-3">
                                         <div class="thumb">
                                             <span class="icon"><img src="assets/images/icon-gambaran-umum.png" alt="">
                                                 <h4>Gambaran Umum</h4>
                                             </span>
                                         </div>
                                     </div>
-                                    <div class="col-lg-2">
+                                    <div class="col-lg-3">
                                         <div class="thumb">
                                             <span class="icon"><img src="assets/images/icon-sejarah.png" alt="">
                                                 <h4>Sejarah</h4>
                                             </span>
                                         </div>
                                     </div>
-                                    <div class="col-lg-2">
+                                    <div class="col-lg-3">
                                         <div class="thumb">
                                             <span class="icon"><img src="assets/images/icon-visi-misi.png" alt="">
                                                 <h4>Visi &amp; Misi</h4>
                                             </span>
                                         </div>
                                     </div>
-                                    <div class="col-lg-2">
+                                    <div class="col-lg-3">
                                         <div class="thumb">
                                             <span class="icon"><img src="assets/images/icon-perangkat-desa.png" alt="">
                                                 <h4>Perangkat Desa</h4>
@@ -182,7 +182,7 @@
             <li>Sabtu s/d Minggu : Libur</li>
         </ul>
     </div>
-</div>
+</div>--}}
                     </div>
                 </div>
                 <div class="col-lg-12">
@@ -194,7 +194,7 @@
                 </div>
             </div>
         </div>
-    </footer>--}}
+    </footer>
                                                                 </div>
                                                             </div>
                                                         </div>
