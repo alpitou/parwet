@@ -67,7 +67,7 @@ https://templatemo.com/tm-564-plot-listing
                                     class="{{ Request::is('/*') ? 'active' : '' }}">Beranda</a></li>
                             <li><a href="{{ route('profil-desa') }}"
                                     class="{{ Request::is('profil-desa') ? 'active' : '' }}">Profil Desa</a></li>
-                            <li><a href="http://pengaduanmenuran.my.id" class="{{ Request::is('pelayanan*') ? 'active' : '' }}">Pengaduan</a></li>
+                            <li><a href="pengaduanparakanwetan.my.id" class="{{ Request::is('pelayanan*') ? 'active' : '' }}">Pengaduan</a></li>
                             <li><a href="{{ route('galeri-desa') }}" class="{{ Request::is('galeri-desa*') ? 'active' : '' }}">Galeri</a></li>
                             <li><a href="{{ route('kabar-desa') }}"
                                     class="{{ Request::is('kabar-desa*') ? 'active' : '' }}">Event Desa</a></li>

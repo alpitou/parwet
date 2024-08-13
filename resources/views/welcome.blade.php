@@ -31,7 +31,7 @@
                 <div class="col-lg-10 offset-lg-1">
                     <ul class="categories">
                         <li><a href="profil-desa"><span class="icon"><img src="assets/images/search-icon-01.png" alt="Profil-desa"></span> Profil Desa</a></li>
-                        <li><a href="http://pengaduanmenuran.my.id"><span class="icon"><img src="assets/images/search-icon-02.png" alt="Food"></span> Pengaduan</a></li>
+                        <li><a href="pengaduanparakanwetan.my.id"><span class="icon"><img src="assets/images/search-icon-02.png" alt="Food"></span> Pengaduan</a></li>
                         <li><a href="{{ route('galeri-desa') }}"><span class="icon"><img src="assets/images/search-icon-04.png" alt="Shopping"></span> Galeri</a></li>
                         <li><a href="{{ route('kabar-desa') }}"><span class="icon"><img src="assets/images/search-icon-05.png" alt="Travel"></span> Event Desa</a></li>
                     </ul>

@@ -147,7 +147,7 @@
                                                                                         </div>
                                                                                         <div>
                                                                                             @if ($perangkatDesa->image == null)
-                                                                                                <img src="{{ Storage::url('perangkat-image/' . $perangkatDesa->image) }}" style="height: 300px" alt="{{ $perangkatDesa->jabatan }}">
+                                                                                                <img src="{{ asset('assets/images/default.jpg') }}" style="height: 300px" alt="{{ $perangkatDesa->jabatan }}">
                                                                                             @else
                                                                                                 <img style="height: 300px" src="{{ Storage::url('perangkat-image/' . $perangkatDesa->image) }}" data-target="#indicators" data-slide-to="{{ $perangkatDesa->id }}" alt="{{ $perangkatDesa->jabatan }}">
                                                                                             @endif
@@ -185,7 +185,7 @@
 </div>--}}
                     </div>
                 </div>
-                <div class="col-lg-12">
+                {{--<div class="col-lg-12">
                     <div class="sub-footer">
                             <br>
                             Design: <a rel="nofollow" href="https://www.instagram.com/infokejadian.parakanwetan/" title="CSS Templates">Dibangun oleh :KKN TIM II UNDIP 2024 Parakan Wetan</a>
@@ -194,7 +194,7 @@
                 </div>
             </div>
         </div>
-    </footer>
+    </footer>--}}
                                                                 </div>
                                                             </div>
                                                         </div>
